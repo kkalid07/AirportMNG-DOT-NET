@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ykq88HG2C97bgTRsIabKTiitt7heGaDdEhs7az1fFFMEJaP+af2PIjhHAltxdVW88Qkf9jzckXGv6BHEPjdz0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
